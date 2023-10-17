@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '7013c1ffae7547abbcc89ca2d62a20d9?v=4de05f1ee201495f8b2b7818145b61df&pvs=4',
+  rootNotionPageId: '1d91649c6e254a698b814cd7cd520bdc?pvs=4',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Jiamin Xia',
-  domain: 'https://jiaminxia.notion.site/7013c1ffae7547abbcc89ca2d62a20d9?v=4de05f1ee201495f8b2b7818145b61df&pvs=4',
+  domain: 'https://jiaminxia.notion.site/Jiamin-Xia-1d91649c6e254a698b814cd7cd520bdc?pvs=4',
   author: 'Jiamin',
 
   // open graph metadata (optional)
